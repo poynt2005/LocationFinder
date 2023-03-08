@@ -1,0 +1,7 @@
+.vscode/
+**/*.dll
+**/*.pyd
+**/*.node
+**/*.exe
+**/*.o
+utilities/
